@@ -1,6 +1,10 @@
+<table>
+  <tr>
+    <td valign="top" width="70%">
+
 # 👋 "Oiê"! Eu sou a Mi!
 
-🎓 Estudante de Ciência da Computação, apaixonada por tecnologia, jogos MMORPG e tatuagens🫡​.
+🎓 Estudante de Ciência da Computação, apaixonada por tecnologia, jogos MMORPG e tatuagens 🫡​.
 
 🔭 No momento, estou trabalhando em...
 
@@ -52,6 +56,12 @@
 * 🌱 Estou sempre aprendendo algo novo sobre tecnologia.
 * 🐱 Gosto de gatos e tecnologia — combinação perfeita, não? 😸
 
-<div align="center">
+    </td>
 
-<img src="lulu.gif">
+    <td valign="top" width="30%" align="center">
+
+<img src="./lulu_.png" width="250px">
+
+    
+  </tr>
+</table>
