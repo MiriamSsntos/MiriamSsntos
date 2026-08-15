@@ -1,66 +1,41 @@
 <table>
   <tr>
-    <td valign="top" width="70%">
+    <td valign="top" width="60%">
 
 # 👋 "Oiê"! Eu sou a Mi!
 
 🎓 Estudante de Ciência da Computação, apaixonada por tecnologia, jogos MMORPG e tatuagens 🫡​.
 
-🔭 No momento, estou trabalhando em...
+🔭 No momento, estou trabalhando com:
 
 * 💻 Projetos acadêmicos e pessoais relacionados ao desenvolvimento de software
 * 🌐 Projetos Web e integração entre Front-end, Back-end e banco de dados
 * 📚 Meu desenvolvimento acadêmico em Ciência da Computação
+* 🎓​ Pesquisa sobre o tema que irei abordar no TCC
 
-🌱 Atualmente estou aprendendo...
+💬 Pode falar comigo sobre:
 
-* ☕ Java
-* 🐍 Python
-* 💻 C#
-* 🌐 HTML, CSS e JavaScript
-* ⚛️ React e Next.js
-* 🗄️ Banco de Dados e APIs
-* 🐧 Linux
-
-👯 Procuro colaborar em...
-
-* Projetos de código aberto
-* Projetos acadêmicos e de desenvolvimento de software
-* Projetos que utilizem tecnologia para solucionar problemas reais
-* Projetos envolvendo Inteligência Artificial, acessibilidade e inovação
-
-🤔 Estou procurando ajuda com...
-
-* Boas práticas de desenvolvimento de software
-* Arquitetura e organização de projetos
-* Desenvolvimento Back-end e Web
-* Novas tecnologias e ferramentas de programação
-
-💬 Pode falar comigo sobre...
-
-* 💻 Ciência da Computação
-* ☕ Java
-* 🐍 Python
-* 🌐 Desenvolvimento Web
-* 🗄️ Banco de Dados
+* 🎮 Jogos
+* 📚​ Animes
+* 🍥​ Naruto
 * 🎓 Projetos acadêmicos e TCC
 
 📫 Como entrar em contato comigo:
 
-* 💼 LinkedIn: [seu LinkedIn]
+* 💼 LinkedIn: https://www.linkedin.com/in/mriamssantos/
 * 📧 E-mail: calmbelt.ravestraz@gmail.com
 
 ⚡ Curiosidade:
 
-* 💻 Gosto de transformar ideias em projetos e problemas em código.
-* 🌱 Estou sempre aprendendo algo novo sobre tecnologia.
-* 🐱 Gosto de gatos e tecnologia — combinação perfeita, não? 😸
+* 💻 Apaixonada na área Geek, nas horas vagas faço cosplay
+* 🌱 Adoro "cultura inútil"
+* 👩‍⚕️​ Já trabalhei por mais de 3 anos na área da saúde, sendo intensivista em clínica veterinária, atualmente migrando para área DEV.
 
     </td>
 
-    <td valign="top" width="30%" align="center">
+    <td valign="top" width="40%" align="center">
 
-<img src="./lulu_.png" width="250px">
+<img src="./lulu_.png" width="300px">
 
     
   </tr>
