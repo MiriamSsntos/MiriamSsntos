@@ -54,4 +54,4 @@
 
 <div align="center">
 
-<img src="https://giphy.com/gifs/leagueoflegends-league-of-legends-lulu-YfyX5wCGiob3O1ToxW">
+<img src="lulu.gif">
